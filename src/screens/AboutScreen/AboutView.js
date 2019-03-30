@@ -55,9 +55,9 @@ class AboutView extends Component {
               style={styles.avatar}
             />
             <View>
-              <Text style={styles.name}>App Developer Info:</Text>
-              <Text>Lex Martinez</Text>
-              <Text style={styles.link}>me@lexmartinez.com</Text>
+              <Text style={styles.name}>Contact :</Text>
+              <Text>Parameshwar Bhat</Text>
+              <Text style={styles.link}>president@havyak.org</Text>
             </View>
           </View>
         </View>
