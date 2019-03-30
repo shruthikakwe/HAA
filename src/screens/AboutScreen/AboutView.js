@@ -51,7 +51,7 @@ class AboutView extends Component {
           <Text style={styles.description}>{this.props.conference.description}</Text>
           <View style={styles.author}>
             <Image
-              source={{uri: 'https://avatars3.githubusercontent.com/u/17863319?s=460&v=4'}}
+              source={{uri: 'https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/haa.png'}}
               style={styles.avatar}
             />
             <View>
