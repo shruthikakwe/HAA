@@ -59,12 +59,32 @@ yarn start --reset-cache
 | ------------- | ------------- |------------- |
 | <img src="https://raw.githubusercontent.com/lexmartinez/conference-app/master/screenshots/screenshot-4.png" width="300"> | <img src="https://raw.githubusercontent.com/lexmartinez/conference-app/master/screenshots/screenshot-5.png" width="300">  | <img src="https://raw.githubusercontent.com/lexmartinez/conference-app/master/screenshots/screenshot-6.png" width="300"> |
 
-## Participate
+## Changelog
 
-If you have any idea, this project is open for issues and pull requests also if you want use this app for any real life event, feel free to use it this code.
+### After SDK update from 26.0.0 to 32.0.0
 
-> REUSE HINT: All event data is provided from this file: `src/assets/info.json`, however the service layer is ready to consume any API with that JSON structure.
+Following the steps in : https://docs.expo.io/versions/latest/workflow/upgrading-expo-sdk-walkthrough/
 
-## License
+- Replaced `26.0.0` in `app.json` with `32.0.0`
+- Replaced the `react`, `react-native` and `expo` dependencies in the `package.json` file with 
+  
+  ```
+  {
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "expo": "^32.0.0",
+    "react": "16.5.0"
+  }
+  ```
+- Deleted the `node_modules` directory and run `yarn install` 
+- Removed this section from the `.babelrc` file :
 
-This project is licensed under MIT License - see the [LICENSE.md](https://github.com/lexmartinez/conference-app/blob/master/LICENSE.md) file for details
+  ``` 
+  "env": {
+      "development": {
+        "plugins": ["transform-react-jsx-source"]
+      }
+    }
+  ```
+
+  - Changed the scripts in `package.json` to replace `react-native-scripts` with `expo`
+  - Removed `node-modules` folder, and ran `npm install` 
