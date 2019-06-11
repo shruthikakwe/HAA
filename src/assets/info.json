@@ -21,7 +21,7 @@
   ],
   "events": [
     {
-      "title": "8:00 am",
+      "title": "5th July 2019",
       "data": [
         { "name" : "Breakfast", "time": "8:00 am - 9:00 am", "place": "Main hallway", "color":"#33E4F0"},
         { "name" : "Meet and Greet", "time": "9:00 am - 9:15 am", "place": "Main hallway", "color":"#33E4F0"}
