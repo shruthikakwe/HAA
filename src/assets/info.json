@@ -92,17 +92,14 @@
       ]
     },
     {
-      "title": "9:15 am",
+      "title": "Thursday, 5th July 2019",
       "data": [
-        { "name" : "Youth Symphony", "time": "9:15 am - 9:30 am", "place": "Room 2203", "color":"#3392F0", 
-          "speaker":"Vinayak Hegde",
-          "description": "Symphony by youth of the Havyaka community"},
-        { "name" : "Havyaka Culture and Tradition", "time": "9:30 am - 9:45 am", "place": "Room 2202", "color":"#3392F0", 
-          "speaker":"Param Bhat",
-          "description": "blurb"},
-        { "name" : "HAA 2019 Agenda", "time": "9:45 am - 10:00 am", "place": "Room 2204", "color":"#F05233", 
-          "speaker":"Raghu Kattinakere",
-          "description": "blurb"}
+        { "name" : "HAA Picnic", "time": "9:00 am - 1:00 pm", "place": "Thomson Memorial Park","description":"Location - Thomson Memorial Park 1005 Brimley Rd Scarborough, ON M1P 3E9 Canada, Picnic Shelter: A ", "color":"#3392F0"},
+        { "name" : "Naavu Havyakaru - Meravnige", "time": "4:00 pm - 4:30 pm", "place": "Chinese Cultural Center", "color":"#3392F0", 
+          "description": " Assemble at multi purpose hall, From Multi-purpose room or from outside until the stage."},
+        { "name" : "Inauguration", "time": "4:30 pm - 5:25 pm", "place": "Chinese Cultural Center - Auditorium", "color":"#3392F0", 
+          "description": "Lighting of the lamp \n Vedaghosha \n Nrithyanjali \n National Anthems \n Naavu Havyakaru \n Swagatha Nrithya \n President's Welcome \n Souvenir Release"}
+
       ]
     }
   ]
