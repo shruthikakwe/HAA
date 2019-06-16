@@ -87,7 +87,7 @@
     {
       "title": "Thursday, 4th July 2019",
       "data": [
-        { "name" : "Youth Camp(For registered participants)", "time": "8:00 am - 5th July 2019 11:00 am", "place": "\n Sringeri Community Center, 80 Brydon Drive, Etobicoke, Toronto", "color":"#33E4F0"},
+        { "name" : "Youth Camp", "time": "8:00 am - 5th July 2019 11:00 am", "place": "Sringeri Community Center", "description":" For pre-registered participants only, Address - 80 Brydon Drive, Etobicoke, Toronto", "color":"#33E4F0"},
         { "name" : "Stage Practice(For registered participants)", "time": "5:00 pm - 9:00 pm", "place": "\n Main Stage, Chinese Cultural Center", "color":"#33E4F0"}
       ]
     },
