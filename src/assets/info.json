@@ -112,7 +112,7 @@
        { "name" : "Sangeeta Rasa Sanje", "time": "6:25 pm - 8:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#FFA07A", 
           "description": "An evening with light music \n Singers: Ratnamala Prakash, Pancham Halibandi"},
        { "name" : "Dinner", "time": "8:00 pm - 9:00 pm", "place": "Chinese Cultural Center-Dining Hall", "color":"#BCDB7F"},
-       { "name" : "\'Karthaveeryarjuna\' Yakshagana", "time": "9:00 pm - 11:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#D03718", 
+       { "name" : "Karthaveeryarjuna Yakshagana", "time": "9:00 pm - 11:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#D03718", 
           "description": " Indian and Local Artists \n Shankara Bhagavatha, Yallapura \n Ananth Hegde, Dantalige \n Ganapati Hegde, Thotimane \n Sanjay Beleyooru \n Yakshamitra Toronto members"}
       ]
     },
@@ -133,7 +133,7 @@
           "description": "Artists - Sakhyam Kaje"},
          { "name" : "Bharathanatya", "time": "9:42 am - 9:49 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
           "description": "Artists - Samita Hegde"},
-          { "name" : "\'M&M Sandarshana\', Kids Skit ", "time": "9:50 am - 10:00 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          { "name" : " M&M Sandarshana, Kids Skit ", "time": "9:50 am - 10:00 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
           "description": "Artists - "},
         { "name" : "Bhagavadgeethe Vyakhyana", "time": "10:05 am - 10:35 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
           "description": "Artists - Radha Desai"},
