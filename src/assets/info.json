@@ -3,8 +3,8 @@
   "location": {
     "city":"Toronto, ON",
     "address": "Chinese Cultural Centre, 5183 Sheppard Ave E, Scarborough, ON M1B 5Z5",
-    "latitude": 43.7752491,
-    "longitude": -79.34765
+    "latitude": 43.794974,
+    "longitude": -79.233467
   },
   "banner": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/haa.png",
   "date": "July 5th-6th, 2019",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Pancham Halibandi",
-      "bio": "\n Pancham was born in the family of musicians had an added advantage in father a renowned light music singer, and had initial training under him &developed his interest towards Folk, Light Music & Theatre at the age of three Enjoys the distinction of being a front runner amongst the talented bunch of light music brigade.\r\n",
+      "bio": "\n Pancham was born in the family of musicians had an added advantage in 57father a renowned light music singer, and had initial training under him &developed his interest towards Folk, Light Music & Theatre at the age of three Enjoys the distinction of being a front runner amongst the talented bunch of light music brigade.\r\n",
       "subtitle": "Singer",
       "twitter": " ",
       "github": " ",
