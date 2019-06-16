@@ -2,9 +2,9 @@
   "name": "HAA Convention 2019",
   "location": {
     "city":"Toronto, ON",
-    "address": "Chinese Cultural Centre Toronto",
-    "latitude": 43.7948,
-    "longitude": 79.2335
+    "address": "Chinese Cultural Centre, 5183 Sheppard Ave E, Scarborough, ON M1B 5Z5",
+    "latitude": 43.7752491,
+    "longitude": -79.34765
   },
   "banner": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/haa.png",
   "date": "July 5th-6th, 2019",
@@ -179,7 +179,8 @@
         { "name" : "Laya-Gaana-Laya", "time": "6:00 pm - 7:30 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
         "description": "Artists - Laya Gana Lasya- Hindustani and Yakshagana Jugalbandi- Direction by Pandit Gopala Krishna Hegde"}, 
         { "name" : "Banquett Session", "time": "7:30 pm - 11:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
-        "description": "Reception \n Entertainment \n Vote of Thanks \n Dinner \n DJ "}
+        "description": "Reception \n Entertainment \n Vote of Thanks \n Dinner \n DJ "},
+         { "name" : "DJ", "time": "10:00 pm - 11:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233"}
         
       ]
     },
