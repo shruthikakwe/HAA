@@ -1,2 +1,2 @@
-import SpeakersContainer from './SpeakersContainer';
-export default SpeakersContainer;
+import ArtistsContainer from './ArtistsContainer';
+export default ArtistsContainer;
