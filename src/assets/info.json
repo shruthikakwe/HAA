@@ -275,6 +275,13 @@
 					"description": "Directed by Jayashree Kanchana Balike \n Artists - \n Praneli Balike \n Rohil Balike \n Amogha Bhat \n Adeesha Bhat \n Avani Hegde \n Samvith Mahesh \n Soham Padyana"
 				},
 				{
+					"name": "Snacks",
+					"time": "10:00 am - 10:30 am",
+					"place": "Convention Center",
+					"description": "Enjoy tea/coffee and snacks at dining hall",
+					"color": "#3392F0"
+				},
+				{
 					"name": "Bhagavadgeethe Vachana",
 					"time": "10:05 am - 10:35 am",
 					"place": "Convention Center",
@@ -335,6 +342,13 @@
 					"place": "Convention Center",
 					"color": "#F05233",
 					"description": "Artists - Aadya Hebbar"
+				},
+				  {
+					"name": "Snacks",
+					"time": "3:30 pm - 4:00 pm",
+					"place": "Convention Center",
+					"description": "Enjoy tea/coffee and snacks at dining hall",
+					"color": "#3392F0"
 				},
 				{
 					"name": "Kathak Dance",
