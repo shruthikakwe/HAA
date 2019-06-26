@@ -171,7 +171,7 @@
       "data": [
         { "name" : "HAA General Body Meeting", "time": "8:00 am - 10:00 am", "place": "Sringeri Community Center", "description":"HAA General Body Meeting \n Breakfast \n GBM Proceedings", "color":"#33E4F0"},
         { "name" : "Toronto Sight Seeing Tour", "time": "10:30 pm - 6:00 pm", "place": "Toronto Site Seeing Tour, Optional Cost approx. $50/person Pre-sign up required","color":"#33E4F0"},
-         { "name" : "", "time": "", "place": " ","color":"#33E4F0"}
+        { "name" : "Toronto Sight Seeing Tour", "time": "10:30 pm - 6:00 pm", "place": "Toronto Site Seeing Tour, Optional Cost approx. $50/person Pre-sign up required","color":"#33E4F0"}
       ]
     }
   ]
