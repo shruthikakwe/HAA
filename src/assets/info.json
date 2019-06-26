@@ -83,10 +83,10 @@
 			]
 		},
 		{
-			"title": "Thursday, 4th July 2019",
+			"title": "Multi-day Events",
 			"data": [{
 					"name": "Youth Camp",
-					"time": "8:00 am - 5th July 2019 11:00 am",
+					"time": "8:00 am 4th July 2019 - 5th July 2019 11:00 am",
 					"place": "Sringeri Community Center",
 					"description": "For pre-registered participants only, \n Address - 80 Brydon Drive, Etobicoke, Toronto",
 					"color": "#33E4F0"
@@ -96,6 +96,13 @@
 					"time": "5:00 pm - 9:00 pm",
 					"place": "\n Convention Center",
 					"description": "Only for pre-requested programs. Please be on time.",
+					"color": "#33E4F0"
+				},
+				 {
+					"name": "Exhibition",
+					"time": "5th July - 6th July",
+					"place": "Convention Center",
+					"description": "Come and visit our exhibition center near dining hall",
 					"color": "#33E4F0"
 				}
 			]
@@ -139,13 +146,6 @@
 					"place": "Convention Center",
 					"color": "#3392F0",
 					"description": " Lighting of the lamp \n Vedaghosha \n Pushpanjali \n National Anthems \n Naavu Havyakaru \n Swagatha Nrithya \n President's Welcome \n Souvenir Release"
-				},
-				{
-					"name": "Exhibition",
-					"time": "5th July - 6th July",
-					"place": "Convention Center",
-					"description": "Come and visit our exhibition center near dining hall",
-					"color": "#33E4F0"
 				},
 				{
 					"name": "Bharatanatya",
