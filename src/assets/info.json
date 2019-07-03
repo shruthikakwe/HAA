@@ -102,7 +102,7 @@
 				},
 				 {
 					"name": "Havyaka Youth Got Talent",
-					"time": "5th July 2019 9:00 pm - 10:00 pm",
+					"time": "5th July 2019 9:00 pm",
 					"place": "\n Convention Center, Upstairs hall",
 					"description": "Preliminary on 5th July 2019,9 pm \n Finals on 6th July 2019, 3pm",
 					"color": "#33E4F0"
@@ -155,7 +155,7 @@
 					"time": "4:00 pm - 5:25 pm",
 					"place": "Convention Center",
 					"color": "#3392F0",
-					"description": "Please be seated at convention center by 4pm"
+					"description": "Please be seated in auditorium by 4pm"
 				},
 				 {
 					"name": "Naavu Havyakaru Meravanige - Procession",
@@ -312,12 +312,7 @@
 		},
 		{
 			"title": "Saturday, 6th July 2019",
-			"data": [{
-					"name": "Breakfast",
-					"time": "7:00 am - 8:00 am",
-					"place": "Convention Center",
-					"color": "#BCDB7F"
-				},
+			"data": [
 				{
 					"name": "Gayathri Homa",
 					"time": "7:30 am - 8:45 am",
@@ -325,39 +320,45 @@
 					"color": "#F05233"
 				},
 				{
+					"name": "Breakfast",
+					"time": "7:00 am - 8:00 am",
+					"place": "Convention Center",
+					"color": "#BCDB7F"
+				},
+				{
 					"name": "Bhagavad Gita Chanting ",
 					"time": "8:50 am - 9:00 am",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Toronto Kids"
+					"description": " Vineeta Habbu \n Sahana Madhyastha \n Kaavya Hegde \n Nidhi Hegde \n Tanay Hegde \n Nirmal Hegde \n Pranav Bhat"
 				},
 				{
 					"name": "Hindustani Vocal",
-					"time": "9:00 am - 9:14 am",
+					"time": "9:00 am - 10:05 am",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Pranav & Ananya"
+					"description": "Artists: Pranav Joshi & Ananya Joshi \n Accompanied by Vinayak Hegde & Shreedhara Madhyastha"
 				},
 				{
 					"name": "Bharatanatya",
-					"time": "9:15 am - 9:21 am",
+					"time": "9:00 am - 10:05 am",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Samit Pandit"
+					"description": "Artist: Samit Pandit"
 				},
 				{
 					"name": "Dance",
-					"time": "9:22 am - 9:27 am",
+					"time": "9:00 am - 10:05 am",
 					"place": "Convention Center",
 					"color": "#F05233",
 					"description": "Artists - Shreya Hegde & Disha Hegde"
 				},
 				{
 					"name": "Carnatic Vocal",
-					"time": "9:34 am - 9:41 am",
+					"time": "9:00 am - 10:05 am",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Sakhyam Kaje"
+					"description": "Artists: \n Sakhyam Kaje \n Soham Kaje \n Vasundhara Mahesh"
 				},
 				{
 					"name": "Bharatanatya",
@@ -367,7 +368,7 @@
 					"description": "Artists - Aashika Bhat"
 				},
 				{
-					"name": " M&M Sandarshana, Kids Skit ",
+					"name": "Unde International, Kids Skit ",
 					"time": "9:50 am - 10:00 am",
 					"place": "Convention Center",
 					"color": "#F05233",
@@ -381,43 +382,36 @@
 					"color": "#3392F0"
 				},
 				{
-					"name": "Bhagavadgeethe Vachana",
+					"name": "Bhagavadgeethe Vachana & Hindustani Vocal",
 					"time": "10:05 am - 10:35 am",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Radha Desai"
+					"description": "Artists: \n Vidhushi Radha Desai \n Tabla: Pt. Gopalkrishna Hegde \n Harmonium: Vinayak Hegde"
 				},
 				{
-					"name": "Dance",
-					"time": "10:40 am - 10:45 am",
+					"name": "Bharatanatya",
+					"time": "10:35 am - 11:10 am",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Shreyas Hegde"
+					"description": "Artist: Anish Sharma,Detroit "
 				},
 				{
-					"name": "Vocal",
-					"time": "10:46 am - 10:51 am",
+					"name": "Havi Hangama",
+					"time": "10:35 am - 11:10 am",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Gopal Bhat"
-				},
-				{
-					"name": "Group Dance",
-					"time": "10:52 am - 11:10 am",
-					"place": "Convention Center",
-					"color": "#F05233",
-					"description": "Artists - Kanchana Hegde & Team"
+					"description": " Artist: \n Ravi Balike \n Jayashree Kanchana Balike \n Praneil Balike \n Rohil Balike \n Bharath Hegde \n Avani Hegde \n Gopal Bhat \n Usha Kuloor Bhat \n Gopalakrishna Bhat \n Vani Hegde \n Ravi Hegde \n Kanchana Hegde \n Disha Hegde \n Shreya Hegde \n Jyothi Ukkinadka \n Venkatesh Pundyavana "
 				},
 				{
 					"name": "Plenary Session",
 					"time": "11:15 am - 12:15 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Plenary Session Led by Param Bhat, HAA President"
+					"description": " HAA Objectives &Achievements: Param Bhat, HAA President \n HAA Finance: Bharath Hegde, Treasurer \n Keynote speakers \n Havyakaru nadedu banda daari: Shivu Bhat \n Growing up as a Havyaka in Canada: Nimish Hegde \n Passing on our culture to next generation Dr. Leela Rao Hegde \n Vaidika Sanmana, Recognitions & Awards \n Vote of Thanks: K.P. Balike, HAA Secretary"
 				},
 				{
-					"name": "Lunch",
-					"time": "12:15 pm - 1:00 pm",
+					"name": "Havyaka Bhojana",
+					"time": "12:15 pm - 1:30 pm",
 					"place": "Convention Center",
 					"color": "#F05233"
 				},
@@ -426,98 +420,101 @@
 					"time": "1:30 pm - 2:00 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Vinayak Hegde & Team"
+					"description": " Organized by: Vinayak Hegde \n Co-ordinated by: Meghana Bhat, Florida \n Artists: Sathvik Sai, Sujit Hegde, Sahana Madhyastha, Vineeta Habbu, Tanvi Kakunje, Maya Bhagwat, Rachna Sharma, Anisha Sharma, Bhakti Hegde, Soham Kaje, Sakhyam Kaje, Meghana Bhat, Krishan Hegde, Deepa Bhat, Samvith Mahesh, Aashika Bhat, Praneil Balike, Shreya Hegde, Shivani Hegde, Kaavya Hegde, Ananya Bhat and Ayush Pundyavana"
+				},
+				{
+					"name": "HAA Activities: Presentations",
+					"time": "10:40 am - 10:45 am",
+					"place": "Convention Center",
+					"color": "#F05233",
+					"description": " HAA Krishi \n Vidyanidhi \n Parent Network \n Phase II \n CMCK \n Presentation by Youth Camp Delegates \n Havyaka Mahasabhe Bengaluru and it's acheivements, Shridhar Bhat Kekkar, VP, Havyaka Mahasabhe"
 				},
 				{
 					"name": "Havyaka Youth Got Talent",
-					"time": "3:00 pm - 3:15 pm",
+					"time": "3:00 pm - 3:20 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Grand final, 2 finalists from Junior Star and Senior Star category"
+					"description": " Junior Star Finalists: A , B \n Senior Star Fianlists: C , D "
 				},
 				{
+					"name": "Song",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#F05233",
+					"description": " Singer: Gopal Bhat \n Guitar: Anup Bhat \n Violin: Aashika Bhat "
+				},
+					
+				{
 					"name": "Bharatanatya",
-					"time": "3:20 pm - 3:27 pm",
+					"time": "3:20 pm - 5:45 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
 					"description": "Artists - Aadya Hebbar"
 				},
-				  {
-					"name": "Snacks",
-					"time": "3:30 pm - 4:00 pm",
-					"place": "Convention Center",
-					"description": "Enjoy tea/coffee and snacks at dining hall",
-					"color": "#3392F0"
-				},
 				{
-					"name": "Kathak Dance",
-					"time": "3:28 pm - 3:35 pm",
+					"name": "Bollywood Medley",
+					"time": "3:20 pm - 5:45 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Keerthana Bhat"
+					"description": " Artist: Annika Hegde, Sydney Australia"
+				},
+				
+				{
+					"name": "Jugalbandi",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#F05233",
+					"description": " Artists: \n Reshma Bhat\n Amrita Rao \n Tabla: Pt. Gopalakrishna Bhat \n Harmonium: Riya Bidaye"
 				},
 				{
-					"name": "Violin Concert",
-					"time": "3:36 pm - 3:43 pm",
+					"name": "Bollywood Dance",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#F05233",
+					"description": "Artists - Samita Pandit"
+				},
+				{
+					"name": "Fusion Strings",
+					"time": "3:20 pm - 5:45 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
 					"description": "Artists - \n Bhakthi Hegde\n Aashika Bhat\n Ananya Hegde"
 				},
 				{
+					"name": "Kathak Dance",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#F05233",
+					"description": "Artist: Keerthana Bhat"
+				},
+				{
 					"name": "Group Song",
-					"time": "3:44 pm - 3:50 pm",
+					"time": "3:20 pm - 5:45 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Anjali Sharma & team, Detroit"
-				},
-				{
-					"name": "Jugalbandi",
-					"time": "3:52 pm - 4:22 pm",
+					"description": " Artists: \n Nikhil Hegde, Mahesh Balike, Vasundhara Balike, Anisha Sharma, Rachna Sharma, Anjali Sharma, Tanvi Kakunje, Roopa Kakunje, Chidananda Kakunje"
+				},	
+				  {
+					"name": "Snacks",
+					"time": "3:30 pm - 4:30 pm",
 					"place": "Convention Center",
-					"color": "#F05233",
-					"description": "Artists - \n Reshma Bhat\n Amrita Rao"
-				},
-				{
-					"name": "Bollywood Dance",
-					"time": "4:22 pm - 4:30 pm",
-					"place": "Convention Center",
-					"color": "#F05233",
-					"description": "Artists - Samita Hegde"
-				},
-				{
-					"name": "Group Dance",
-					"time": "4:31 pm - 4:36 pm",
-					"place": "Convention Center",
-					"color": "#F05233",
-					"description": "Artists - Sumana & Team"
-				},
-				{
-					"name": "Bharatanatya",
-					"time": "4:36 pm - 4:41 pm",
-					"place": "Convention Center",
-					"color": "#F05233",
-					"description": "Artists - Anish"
-				},
-				{
-					"name": "Group Dance",
-					"time": "4:42 pm - 4:47 pm",
-					"place": "Convention Center",
-					"color": "#F05233",
-					"description": "Artists - Chitra Kraki & Team, Boston"
+					"description": "Enjoy tea/coffee and snacks at dining hall",
+					"color": "#3392F0"
 				},
 				{
 					"name": "Havitaranga",
-					"time": "5:21 pm - 5:40 pm",
+					"time": "3:20 pm - 5:45 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - Toronto Team"
+					"description": "Artists:  Ananya Balike, Bhavana Hegde, Ranjana Hegde, Rashmi Bhat, Shobha Hegde, Sharada Hegde, Roshni Bhat, Anupama Shastry, Radha Bhat, Deepali Hegde, Seema Hegde, Sahana Adiga, Vani Bhagwat, Sahana Hegde, Sannidhi Hegde, Nanda Bhat, Shwetha Bhat, Nandakumar Hegde, Chandan Hegde, Rachana Rao, Deepti Hegde, Aparna Bhat, Jyotsna Bhat, Vani Hegde, Gayathri Hebbar, Shruthi Upadhyaya, Gangajyothi Raghavendra, Poornima Bhat, Maithri Hegde and Kalpana Bhat"
 				},
+			
 				{
-					"name": "HAA California",
-					"time": "5:41 pm - 5:50 pm",
+					"name": "Swaagatham to California",
+					"time": "5:41 pm - 5:45 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - California Team"
+					"description": "Bala Joshi, Jayashree Joshi, Gopal Bhat, Sujatha Bhat, Deepa Bhat, Daya Bhat, Mabal Bhat, Aruna Bhat, Venkat Bhat, Vidya Bhat,Krishna Upadhyay, Chaya Upadhyaya, Rachita Upadhyaya, Dilip Karki, Bindu Sundar, Anushka Karki, Murthy Hebbar, Usha Hebbar, Aadya Hebbar, Abhinav Hebbar, Shivaram Bhat, Meenakshi Bhat, Anu Bhat, Adarsh Bhat, Rithika Bhat, Rishabh Bhat, Prabhakar Bonanthaya, Saraswathi Bonanthaya, KP Mabal Bhat, Vasanthi Bhat, Kavitha Hegde, Shashi Hegde, Ishan Hegde, Reyansh Hegde, Reshma Bhat, Satish Bhat, Swara Bhat, Aditya Udupa, Amrita Rao, Tanmay Udupa and Rajani Noojibail \n \n Introduction of next President & Passing on the HAA bell "
 				},
 				{
 					"name": "Farewell",
@@ -526,25 +523,13 @@
 					"color": "#F05233",
 					"description": "Artists - Toronto Team"
 				},
-				{
-					"name": "Laya-Gaana-Laya",
-					"time": "6:00 pm - 7:30 pm",
-					"place": "Convention Center",
-					"color": "#F05233",
-					"description": "Artists - Laya Gana Lasya- Hindustani and Yakshagana Jugalbandi- Direction by Pandit Gopala Krishna Hegde"
-				},
+		
 				{
 					"name": "Banquett Session",
 					"time": "7:30 pm - 11:00 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Reception \n Entertainment \n Vote of Thanks \n Dinner \n DJ "
-				},
-				{
-					"name": "DJ",
-					"time": "10:00 pm - 11:00 pm",
-					"place": "Convention Center",
-					"color": "#F05233"
+					"description": " 7:30-8:00PM Snacks, Appetizers \n 8:00-9:00PM Entertainment-Meghna Bhat and Shivani Hegde, Anand Hegde \n Convention Committee Introduction \n Farewell \n 9:00-10:00PM Dinner \n 10:00-11:00PM DJ- Dance "
 				}
 
 			]
