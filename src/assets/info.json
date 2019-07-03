@@ -92,11 +92,19 @@
 					"description": "For pre-registered participants only, \n Address - 80 Brydon Drive, Etobicoke, Toronto",
 					"color": "#33E4F0"
 				},
+			
 				{
 					"name": "Stage Practice",
 					"time": "5:00 pm - 9:00 pm",
 					"place": "\n Convention Center",
 					"description": "Only for pre-requested programs. Please be on time.",
+					"color": "#33E4F0"
+				},
+				 {
+					"name": "Havyaka Youth Got Talent",
+					"time": "5th July 2019 9:00 pm - 10:00 pm",
+					"place": "\n Convention Center, Upstairs hall",
+					"description": "Preliminary on 5th July 2019,9 pm \n Finals on 6th July 2019, 3pm",
 					"color": "#33E4F0"
 				},
 				 {
@@ -125,91 +133,181 @@
 					"description": "Location - Thomson Memorial Park 1005 Brimley Rd Scarborough, ON M1P 3E9 Canada, Picnic Shelter: A ",
 					"color": "#3392F0"
 				},
+				 {
+					"name": "Lunch",
+					"time": "12:00 pm - 1:00 pm",
+					"place": "Thomson Memorial Park",
+					"description": "Location - Thomson Memorial Park 1005 Brimley Rd Scarborough, ON M1P 3E9 Canada, Picnic Shelter: A ",
+					"color": "#3392F0"
+				},
+				
 				 
 				 {
-					"name": "Snacks",
-					"time": "3:00 pm - 4:00 pm",
-					"place": "Convention Center",
+					"name": "Registration & Snacks",
+					"time": "3:00 pm - 3:45 pm",
+					"place": "Havya Kshethra, Convention Center",
 					"description": "Enjoy tea/coffee and snacks at dining hall",
 					"color": "#3392F0"
 				},
 				 
 				{
-					"name": "Naavu Havyakaru - Meravanige",
-					"time": "4:00 pm - 4:30 pm",
+					"name": "Inaugural Programs",
+					"time": "4:00 pm - 5:25 pm",
 					"place": "Convention Center",
 					"color": "#3392F0",
-					"description": "Assemble at multi purpose hall, From Multi-purpose room or from outside until the stage."
+					"description": "Please be seated at convention center by 4pm"
+				},
+				 {
+					"name": "Naavu Havyakaru Meravanige - Procession",
+					"time": "4:00 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#3392F0",
+					"description": "All Chapters"
 				},
 				{
-					"name": "Inauguration",
+					"name": "Lighting of the Lamp",
 					"time": "4:30 pm - 5:25 pm",
 					"place": "Convention Center",
 					"color": "#3392F0",
-					"description": " Lighting of the lamp \n Vedaghosha \n Pushpanjali \n National Anthems \n Naavu Havyakaru \n Swagatha Nrithya \n President's Welcome \n Souvenir Release"
+					"description": " Hon. Chandra Arya, MP \n Shridhara Bhat Kekkar, Havyaka Mahasabha Bengaluru \n Dr. Ramachandra Hosmane, US "
+				},
+				 {
+					"name": "Aarathi with Bhakti Geete",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#3392F0",
+					"description": " Parvati Bhat \n Sharada Bhat \n Vinoda Upadhyaya \n Shwetha Bhat \n Shailaja Bhat "
+				},
+				 {
+					"name": "Veda Ghosha, Sabha Vandane",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#3392F0",
+					"description": " Pt. Ramakrishna Bhat \n Rama Bhat Balike \n Param Bhat \n Ragu Kattinakere \n Vinayak Hegde \n Ganapathi Bhat \n Krishna Prasad Balike"
+				},
+		
+				{
+					"name": "Pushpanjali",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#3392F0",
+					"description": " Choreographed by Rashmi Bhat & Ananya Balike \n Rashmi Bhat \n Ananya Balike \n Nidhi Hegde \n Amrutha Bhat \n Seema Hegde \n Poornima Bhat \n Manasa Alangar \n Kavya Hegde "
+				},
+				 {
+					"name": "National Anthems",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#3392F0",
+					"description": " Canadian Anthem: Shivani Hegde \n US Anthem: Soham Kaje \n Indian Anthem: Ranjana Hegde"
+				},
+				 	{
+					"name": "Naavu Havyakaru Video",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#3392F0",
+					"description": " Krishna Upadhyaya \n Shreeharsha Hegde \n Shrikant Hegde \n Nirmal Hegde"
+				},
+				 {
+					"name": "Havyakara Swaagatha",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#3392F0",
+					"description": " By Toronto Group \n Co-ordinated by Jyotsna Bhat, Aparna Bhat, Deepti Hegde \n Amrutha Bhat, Nidhi Hegde, Kaavya Hegde, Tanay Hegde, Shreyas Hegde, Samit Hegde, Puneet Bhat, Shrikant Hegde, Ram Bhat,Ganapathi Bhat, Sadashiva Bhat, Ragu Kattinakere, Manjunath Bhat, Nandakumar Hegde, Ananya Balike, Roshni Bhat, Shivani Hegde, Shreedhara Madhyasta, Nirmal Hegde, Shreyas Bhat, Amit Bhat, Vishal Bhat, Parvathi Bhat, Meenakshi Bhat, Asha Balike, Vaishali Pandit, Param Bhat, Sharada Bhat, Shivram Bhat, Shobha Bhat, Nagaraj Hegde, Shubha Hegde, Adhya Hegde, Yashas Bhat, Sahana Madhyastha, Reshma Bhat, Kavita Habbu, Sudha Hegde, Gowri Madhyastha, Vinayak Hegde, Ranjana Hegde, Maithri Hegde, Anupama Shastry, Poornima Bhat and Vineeta Habbu"
+				},
+				 {
+					"name": "President's Welcome",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#3392F0",
+					"description": " Param Bhat, HAA President"
+				},
+				  {
+					"name": "Souvenir Release",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#3392F0",
+					"description": " Presentation: Ragu Kattinakere \n Release by: Hon. Chandra Arya, Member of Parliament, Canada \n Dr. Rama Bhat Khandige \n Prof. Kolari Subramanya Bhat \n Greetings by Sri Chandra Arya, MP"
+				},
+				 {
+					"name": "Semi Classical Dance",
+					"time": "5:25 pm - 6:25 pm",
+					"place": "Convention Center",
+					"color": "#F05233",
+					"description": " Artists - \n Ananya Bhat \n Jyothi Ukkinadka"
+				},
+				  {
+					"name": "Kande Naa Parashivana",
+					"time": "5:25 pm - 6:25 pm",
+					"place": "Convention Center",
+					"color": "#F05233",
+					"description": " Artists - \n Arati Bhagawat \n Sowmya Bonanthaya \n Anvi Bonanthaya \n Manasa Pandit \n Samitha Pandit \n Suhaani Pandit \n Kanchana Bhat \n Sumana Bhat \n Sumedha Hegde"
 				},
 				{
 					"name": "Bharatanatya",
-					"time": "5:25 pm - 5:32 pm",
+					"time": "5:25 pm - 6:25 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artist - Priya Hegde"
+					"description": " Artist - Priya Hegde, Boston"
 				},
+				
 				{
 					"name": "Group Song",
-					"time": "5:32 pm - 5:47 pm",
+					"time": "5:25 pm - 6:25 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - \n Vijaya Bhat \n Murali Kaje \n Sahana Kaje \n Pratibha Kote \n Keshav Kote \n Shaila Tamragauri \n Aparna Adkoli \n Lakshmi Bhat \n Leela Rao \n Sujatha Adkoli"
+					"description": " Artists: \n Vijaya Bhat, Rama Bhat, Muralidhara Kaje, Sahana Kaje, Soham Kaje, Sakhyam Kaje, Pratibha Kote, Keshav Kote, Shaila Tamragauri, Ravi Tamragauri, Aparna Adkoli, Sudhir Adkoli, Sharada Gudehithlu, Krishnamurthy Gudehithlu, Leela Rao, Shankar Hegde, Laxmi Bhat, Ganapathi Bhat, Sujata Adkoli, Anil Adkoli and Nalini Belagaje"
 				},
-				{
+				 {
 					"name": "Group Dance",
-					"time": "5:48 pm - 5:55 pm",
+					"time": "5:25 pm - 6:25 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - \n Arati Bhagawat \n Soumya Bhat \n Manasa Hegde \n Kanchana Padyana \n Sumana Bhat \n Sumedha Hegde \n Maya Bhagawat \n Sanvi Bhat"
+					"description": " Choreographer: Chitra Karki \n Artists: Chitra Karki, Subramanya Hegde, Vasanti Hegde, LG Hegde, Anil Padyana, Kanchana Padyana, Nitin Bhat, Madhu Nitin, Smita Karki and Annika Hegde"
 				},
+				
+				
 				{
-					"name": "Semi Classical Dance",
-					"time": "5:55 pm - 6:00 pm",
+					"name": "Nee Kele Vadhuve",
+					"time": "5:25 pm - 6:25 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artists - \n Ananya Bhat \n Jyothi Ukkinadka"
-				},
-				{
-					"name": "Group Dance",
-					"time": "6:00 pm - 6:10 pm",
-					"place": "Convention Center",
-					"color": "#F05233",
-					"description": "Artists - \n Usha Kuloor \n Jyothi Ukkinadka \n Kanchana Hegde \n Jayashree Kanchana Balike"
+					"description": " Choreographer: Usha Kuloor \n Artists: \n Usha Kuloor \n Jyothi Ukkinadka \n Kanchana Hegde"
 				},
 				{
 					"name": "Kannada Song",
-					"time": "6:10 pm - 6:15 pm",
+					"time": "5:25 pm - 6:25 pm",
 					"place": "Convention Center",
 					"color": "#F05233",
-					"description": "Artist - Meghna"
+					"description": "Artist - Meghna Bhat"
 				},
+				 {
+					"name": "Karthaveeryarjuna Yakshagana",
+					"time": "6:30 pm - 8:30 pm",
+					"place": "Convention Center",
+					"color": "#D03718",
+					"description": " Himmela: \n Bagavatha: Anantha Hegde Dantalige & Ragu Kattinakere \n Maddale: Shankara Bhagavatha Yellapur \n Chande: Ragu Kattinakere \n\n Mummela: \n Karthaveerya: Thotimane Ganapati Hegde \n Vibheeshana: Naveen Hegde \n Ravana: Sanjaya Beleyooru \n Prahastha: Shreeharsha Hegde \n Sthreevesha: Shrkant Hegde & Ananya Balike \n Hasya: Raghav Kanchana"
+				},
+			
 				{
+					"name": "Havyaka Santharpane - Dinner",
+					"time": "8:30 pm - 9:30 pm",
+					"place": "Convention Center-Dining Hall",
+					"color": "#BCDB7F"
+				},
+				 {
 					"name": "Sangeeta Rasa Sanje",
-					"time": "6:25 pm - 8:00 pm",
+					"time": "9:30 pm - 11:30 pm",
 					"place": "Convention Center",
 					"color": "#FFA07A",
 					"description": "An evening with light music \n Singers: Ratnamala Prakash, Pancham Halibandi \n Instrument Accompaniment - \n Tabla - Pt Gopalakrishna Hegde \n Keyboard - Krishna Murthy \n Drum Pad - Oomen Thomas \n Bass Guitar - Jacob Thomas"
 				},
 				{
-					"name": "Havyaka Santharpane - Dinner",
-					"time": "8:00 pm - 9:00 pm",
-					"place": "Convention Center-Dining Hall",
+					"name": "Havyaka Youth Got Talent Show - Preliminary",
+					"time": "9:00 pm - 10:00 pm",
+					"place": "Convention Center - Upstairs Lobby",
 					"color": "#BCDB7F"
 				},
-				{
-					"name": "Karthaveeryarjuna Yakshagana",
-					"time": "9:00 pm - 11:00 pm",
-					"place": "Convention Center",
-					"color": "#D03718",
-					"description": " Indian and Local Artists \n Shankara Bhagavatha, Yallapura \n Ananth Hegde, Dantalige \n Ganapati Hegde, Thotimane \n Sanjay Beleyooru \n Yakshamitra Toronto members"
-				}
+				
 			]
 		},
 		{
