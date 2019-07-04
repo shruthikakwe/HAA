@@ -501,7 +501,13 @@
 					"color": "#ffeb99",
 					"description": " Artists: \n Nikhil Hegde, Mahesh Balike, Vasundhara Balike, Anisha Sharma, Rachna Sharma, Anjali Sharma, Tanvi Kakunje, Roopa Kakunje, Chidananda Kakunje"
 				},	
-				
+				  {
+					"name": "Snacks",
+					"time": "3:30 pm - 4:30 pm",
+					"place": "Convention Center",
+					"description": "Enjoy tea/coffee and snacks at dining hall",
+					"color": "#ffeb99"
+				},
 				{
 					"name": "Havitaranga",
 					"time": "5:05 pm - 5:25 pm",
@@ -515,7 +521,7 @@
 					"time": "5:30 pm - 5:40 pm",
 					"place": "Convention Center",
 					"color": "#ffeb99",
-					"description": "Bala Joshi, Jayashree Joshi, Gopal Bhat, Sujatha Bhat, Deepa Bhat, Daya Bhat, Mabal Bhat, Aruna Bhat, Venkat Bhat, Vidya Bhat,Krishna Upadhyay, Chaya Upadhyaya, Rachita Upadhyaya, Dilip Karki, Bindu Sundar, Anushka Karki, Murthy Hebbar, Usha Hebbar, Aadya Hebbar, Abhinav Hebbar, Shivaram Bhat, Meenakshi Bhat, Anu Bhat, Adarsh Bhat, Rithika Bhat, Rishabh Bhat, Prabhakar Bonanthaya, Saraswathi Bonanthaya, KP Mabal Bhat, Vasanthi Bhat, Kavitha Hegde, Shashi Hegde, Ishan Hegde, Reyansh Hegde, Reshma Bhat, Satish Bhat, Swara Bhat, Aditya Udupa, Amrita Rao, Tanmay Udupa and Rajani Noojibail \n "
+					"description": "Bala Joshi, Jayashree Joshi, Gopal Bhat, Sujatha Bhat, Deepa Bhat, Daya Bhat, Mabal Bhat, Aruna Bhat, Venkat Bhat, Vidya Bhat,Krishna Upadhyay, Chaya Upadhyaya, Rachita Upadhyaya, Dilip Karki, Bindu Sundar, Anushka Karki, Murthy Hebbar, Usha Hebbar, Aadya Hebbar, Abhinav Hebbar, Shivaram Bhat, Meenakshi Bhat, Anu Bhat, Adarsh Bhat, Rithika Bhat, Rishabh Bhat, Prabhakar Bonanthaya, Saraswathi Bonanthaya, KP Mabal Bhat, Vasanthi Bhat, Kavitha Hegde, Shashi Hegde, Ishan Hegde, Reyansh Hegde, Reshma Bhat, Satish Bhat, Swara Bhat, Aditya Udupa, Amrita Rao, Tanmay Udupa and Rajani Noojibail \n \n Introduction of next President & Passing on the HAA bell "
 				},
 				{
 					"name": "Introduction of next President & Passing on the HAA bell",
@@ -529,11 +535,11 @@
 					"time": "5:45 pm - 7:30 pm",
 					"place": "Convention Center",
 					"color": "#ffeb99",
-					"description": " Direction and Tabla Pt. GopalaKrishna Hegde \n Vocal: \n Bhagavathike: Ananth Hegde Dantalige, Ragu Kattinakere \n Vocal- Hindustani Vinayak Hegde \n Maddale: Shankar Bhagwath Yellapura \n Harmonium: Raya Bidaye"
+					"description": " Direction and Tabla Pt. GopalaKrishna Hegde \n  Vocal - Bhagavathike: Ananth Hegde Dantalige, Ragu Kattinakere \n Vocal- Hindustani Vinayak Hegde \n Maddale: Shankar Bhagwath Yellapura \n Harmonium: Raya Bidaye"
 				},
 		
 				{
-					"name": "Banquett Session",
+					"name": "Banquet Session",
 					"time": "7:30 pm - 11:00 pm",
 					"place": "Convention Center",
 					"color": "#ffeb99",
