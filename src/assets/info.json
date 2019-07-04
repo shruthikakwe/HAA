@@ -4,7 +4,35 @@
 		"city": "Toronto, ON",
 		"address": "Chinese Cultural Centre, 5183 Sheppard Ave E, Scarborough, ON M1B 5Z5",
 		"latitude": 43.794994,
-		"longitude": -79.233486
+    "longitude": -79.233486,
+    "markers": [{
+      "title": "Convention Hall - Venue",
+      "coordinates": {
+        "latitude": 43.794994,
+        "longitude": -79.233486
+      }
+    },
+    {
+        "title": "Picnic - Thomson Memorial Park",
+        "coordinates": {
+          "latitude": 43.75819310000001,
+          "longitude": -79.253826
+      }
+    },
+    {
+      "title": "Edwards Hotel",
+      "coordinates": {
+        "latitude": 43.84741809999996,
+        "longitude": -79.3649714
+    }
+  },
+  {
+    "title": "Centennial Place Residence",
+    "coordinates": {
+      "latitude": 43.78494840000004,
+      "longitude": -79.22999709999999
+  }
+}]
 	},
 	"banner": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/haa.png",
 	"date": "July 5th-6th, 2019",
@@ -501,13 +529,7 @@
 					"color": "#ffeb99",
 					"description": " Artists: \n Nikhil Hegde, Mahesh Balike, Vasundhara Balike, Anisha Sharma, Rachna Sharma, Anjali Sharma, Tanvi Kakunje, Roopa Kakunje, Chidananda Kakunje"
 				},	
-				  {
-					"name": "Snacks",
-					"time": "3:30 pm - 4:30 pm",
-					"place": "Convention Center",
-					"description": "Enjoy tea/coffee and snacks at dining hall",
-					"color": "#ffeb99"
-				},
+				
 				{
 					"name": "Havitaranga",
 					"time": "5:05 pm - 5:25 pm",
@@ -521,7 +543,7 @@
 					"time": "5:30 pm - 5:40 pm",
 					"place": "Convention Center",
 					"color": "#ffeb99",
-					"description": "Bala Joshi, Jayashree Joshi, Gopal Bhat, Sujatha Bhat, Deepa Bhat, Daya Bhat, Mabal Bhat, Aruna Bhat, Venkat Bhat, Vidya Bhat,Krishna Upadhyay, Chaya Upadhyaya, Rachita Upadhyaya, Dilip Karki, Bindu Sundar, Anushka Karki, Murthy Hebbar, Usha Hebbar, Aadya Hebbar, Abhinav Hebbar, Shivaram Bhat, Meenakshi Bhat, Anu Bhat, Adarsh Bhat, Rithika Bhat, Rishabh Bhat, Prabhakar Bonanthaya, Saraswathi Bonanthaya, KP Mabal Bhat, Vasanthi Bhat, Kavitha Hegde, Shashi Hegde, Ishan Hegde, Reyansh Hegde, Reshma Bhat, Satish Bhat, Swara Bhat, Aditya Udupa, Amrita Rao, Tanmay Udupa and Rajani Noojibail \n \n Introduction of next President & Passing on the HAA bell "
+					"description": "Bala Joshi, Jayashree Joshi, Gopal Bhat, Sujatha Bhat, Deepa Bhat, Daya Bhat, Mabal Bhat, Aruna Bhat, Venkat Bhat, Vidya Bhat,Krishna Upadhyay, Chaya Upadhyaya, Rachita Upadhyaya, Dilip Karki, Bindu Sundar, Anushka Karki, Murthy Hebbar, Usha Hebbar, Aadya Hebbar, Abhinav Hebbar, Shivaram Bhat, Meenakshi Bhat, Anu Bhat, Adarsh Bhat, Rithika Bhat, Rishabh Bhat, Prabhakar Bonanthaya, Saraswathi Bonanthaya, KP Mabal Bhat, Vasanthi Bhat, Kavitha Hegde, Shashi Hegde, Ishan Hegde, Reyansh Hegde, Reshma Bhat, Satish Bhat, Swara Bhat, Aditya Udupa, Amrita Rao, Tanmay Udupa and Rajani Noojibail \n "
 				},
 				{
 					"name": "Introduction of next President & Passing on the HAA bell",
@@ -535,15 +557,15 @@
 					"time": "5:45 pm - 7:30 pm",
 					"place": "Convention Center",
 					"color": "#ffeb99",
-					"description": " Direction and Tabla Pt. GopalaKrishna Hegde \n  Vocal - Bhagavathike: Ananth Hegde Dantalige, Ragu Kattinakere \n Vocal- Hindustani Vinayak Hegde \n Maddale: Shankar Bhagwath Yellapura \n Harmonium: Raya Bidaye"
+					"description": " Direction and Tabla Pt. GopalaKrishna Hegde \n Vocal \n Bhagavathike: Ananth Hegde Dantalige, Ragu Kattinakere \n Vocal- Hindustani Vinayak Hegde \n Maddale: Shankar Bhagwath Yellapura \n Harmonium: Raya Bidaye"
 				},
 		
 				{
-					"name": "Banquet Session",
+					"name": "Banquett Session",
 					"time": "7:30 pm - 11:00 pm",
 					"place": "Convention Center",
 					"color": "#ffeb99",
-					"description": " 7:30-8:00 pm Snacks, Appetizers \n 8:00-9:00 pm Entertainment-Meghna Bhat and Shivani Hegde, Anand Hegde \n Convention Committee Introduction \n Farewell \n 9:00-10:00 pm Dinner \n 10:00-11:00 pm DJ- Dance "
+					"description": " 7:30-8:00PM Snacks, Appetizers \n 8:00-9:00PM Entertainment-Meghna Bhat and Shivani Hegde, Anand Hegde \n Convention Committee Introduction \n Farewell \n 9:00-10:00PM Dinner \n 10:00-11:00PM DJ- Dance "
 				}
 
 			]
